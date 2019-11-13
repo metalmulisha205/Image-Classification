@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:\\Main\\Programming\\DrivenData\\Model\\Image-Classification-by-Keras-and-Tensorflow\\Using Tensorflow\\models\\trained_model"
+all_model_checkpoint_paths: "E:\\Main\\Programming\\DrivenData\\Model\\Image-Classification-by-Keras-and-Tensorflow\\Using Tensorflow\\models\\trained_model"
